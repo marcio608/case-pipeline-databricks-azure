@@ -10,7 +10,7 @@
 #### A idea desse case é simular um pipeline de dados utilizando o Azure Data Factory para a orquestração e monitoração do pipe e o Databricks para criar os notebooks para fazer as transformações necessárias.
 #### A figura abaixo mostra como irá funcionar o pipeline.
 
-!(imagem_pipeline)[https://github.com/marcio608/case-pipeline-databricks-azure/blob/main/pipeline_photo.png]
+![imagem_pipeline](https://github.com/marcio608/case-pipeline-databricks-azure/blob/main/pipeline_photo.png)
 
 
 ### **Base de dados**
