@@ -1,0 +1,9 @@
+{
+	"name": "case-databricks",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5559986a-70a8-4a79-9007-b705ee7254e1",
+		"tenantId": "1feda0e7-8f2f-4780-98c7-60df93ac3249"
+	}
+}
